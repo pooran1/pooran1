@@ -30,25 +30,28 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/>
   </a>
 </p>
+<br/>
+<!-- ─────────────────  ODOO / ERP THEMED DIVIDER BANNER  ───────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:714B67,50:0E4D8C,100:2E9BE6&height=42&section=header&text=%E2%9A%99%EF%B8%8F%20%20Odoo%20%C2%B7%20Python%20%C2%B7%20PostgreSQL%20%C2%B7%20OWL.js%20%C2%B7%20ERP%20Automation%20%20%E2%9A%99%EF%B8%8F&fontSize=15&fontColor=ffffff&fontAlignY=58" width="100%" alt="tech divider"/>
 </div>
-<!-- ─────────────────  SNAKE ANIMATION  ───────────────── -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="100%" alt="snake animation"/>
 ---
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 ```python
-pooran = {
-    "role":        "Odoo Developer · ERP Specialist · Python Backend Engineer",
-    "location":    "Karachi, Pakistan 🇵🇰",
-    "education":   "BS Information Technology @ BBSUL Karachi",
-    "experience":  "3.5+ years building enterprise Odoo ERP solutions",
-    "currently_at": "ComstarUSA — Odoo Developer",
-    "expertise":   ["Odoo v11–v19", "Python & Odoo ORM", "PostgreSQL", "OWL.js"],
-    "focus":       ["ERP Customization", "Version Migration", "REST/XML-RPC", "AI Automation"],
-    "motto":       "I don't just configure ERPs — I engineer business solutions that scale.",
-}
+class PooranParshant:
+    def __init__(self):
+        self.role        = "Odoo Developer | ERP Specialist | Python Backend Engineer"
+        self.location    = "Karachi, Pakistan"
+        self.education   = "BS Information Technology @ BBSUL Karachi"
+        self.experience  = "3.5+ years building enterprise Odoo ERP solutions"
+        self.current_job = "ComstarUSA - Odoo Developer"
+        self.expertise   = ["Odoo v11-v19", "Python", "Odoo ORM", "PostgreSQL", "OWL.js"]
+        self.focus       = ["ERP Customization", "Version Migration", "AI Automation"]
+
+    def motto(self):
+        return "I don't just configure ERPs - I engineer solutions that scale."
 ```
 > ⚙️ &nbsp;I build **end-to-end Odoo ERP solutions** — from custom modules to full version migrations.  
-> 🎯 &nbsp;Specializing in **Odoo customization (v11–v19)**, **Python backend logic**, and **OWL.js front-end components**.  
+> 🎯 &nbsp;Specializing in **Odoo customization (v11-v19)**, **Python backend logic**, and **OWL.js front-end components**.  
 > 🤖 &nbsp;Integrating **AI-driven features and intelligent automation** into real-world ERP workflows.  
 > 🤝 &nbsp;Open to collaborations in **Odoo development**, **ERP systems**, **Python backends**, and **business automation**.
 ---
@@ -56,32 +59,29 @@ pooran = {
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
-🏢 ComstarUSA
-Odoo Developer  
+🏢 ComstarUSA — Odoo Developer
 `Jan 2023 – Present`
-Developing and customizing Odoo ERP modules across v11–19 — Sales, Inventory, MRP, Accounting, CRM & Field Service — for enterprise clients (Stonetech Fabrication, Cosa Marble, ClearWater). Building backend logic with Python & Odoo ORM, custom XML views, QWeb reports, OWL.js components, and REST/XML-RPC integrations. Leading version migrations with Git & Docker deployments.
+Developing and customizing Odoo ERP modules across v11-19 — Sales, Inventory, MRP, Accounting, CRM & Field Service — for enterprise clients (Stonetech Fabrication, Cosa Marble, ClearWater). Building backend logic with Python & Odoo ORM, custom XML views, QWeb reports, OWL.js components, and REST / XML-RPC integrations. Leading version migrations with Git & Docker deployments.
 </td>
 <td width="50%" valign="top">
-🏢 Odolution
-Odoo Developer  
+🏢 Odolution — Odoo Developer
 `Jun 2022 – Dec 2022`
-Delivered custom Odoo ERP solutions for SadaPay (fintech), FAKT, and Universal Brush wares, tailoring modules to industry-specific needs. Built backend functionality with Python & Odoo ORM — custom XML views, business workflows, QWeb reports, and PostgreSQL data models ensuring integrity and performance.
+Delivered custom Odoo ERP solutions for SadaPay (fintech), FAKT, and Universal Brush wares, tailoring modules to industry-specific needs. Built backend functionality with Python & Odoo ORM — custom XML views, business workflows, QWeb reports, and PostgreSQL data models ensuring data integrity and performance.
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-💻 Love For Data
-Python Developer Intern  
+💻 Love For Data — Python Developer Intern
 `Feb 2022 – Jun 2022`
-Wrote, tested, and maintained Python backend applications. Designed and tested RESTful APIs with Postman and managed SQL/PostgreSQL databases for application backends.
+Wrote, tested, and maintained Python backend applications. Designed and tested RESTful APIs with Postman and managed SQL / PostgreSQL databases for application backends.
 </td>
 <td width="50%" valign="top">
 🎯 Core Strengths
-What I bring to the table
+`What I bring to the table`
 3.5+ years of hands-on Odoo experience
-Full ERP module lifecycle: build → migrate → deploy
+Full ERP lifecycle: build → migrate → deploy
 Clean, maintainable Python backend code
-Business-process automation mindset
+A business-process automation mindset
 </td>
 </tr>
 </table>
@@ -96,8 +96,7 @@ Stack: `Odoo` `Python` `Odoo ORM` `QWeb` `PostgreSQL`
 Complete library management via Odoo customization
 Custom data models & automated workflows
 QWeb reporting for issue / return tracking
-Member & catalog management
-End-to-end ERP module from scratch
+End-to-end ERP module built from scratch
 </td>
 <td width="50%" valign="top">
 🌾 ML Agriculture Health Monitor
@@ -106,8 +105,7 @@ Stack: `Python` `Machine Learning` `IoT` `Data Science`
 End-to-end ML system on an IoT sensor network
 Real-time crop & soil health monitoring
 Data-driven agricultural decision support
-Sensor data ingestion & prediction pipeline
-Integrated hardware + software stack
+Integrated hardware + software pipeline
 </td>
 </tr>
 <tr>
@@ -118,7 +116,6 @@ Stack: `Python` `Django` `SQL` `HTML/CSS`
 Front-end & back-end built end-to-end
 Role-based leave requests & approval workflows
 Employee & manager dashboards
-Structured request lifecycle management
 Clean relational data modeling
 </td>
 <td width="50%" valign="top">
@@ -128,7 +125,6 @@ Stack: `HTML` `CSS` `JavaScript`
 University web portal for student information
 Responsive, accessible UI
 Academic & student record management
-Clean front-end architecture
 Foundational full-stack project
 </td>
 </tr>
@@ -143,23 +139,23 @@ Foundational full-stack project
 <div align="center">
 ⚙️ ERP & Core
 <p>
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="48" alt="Odoo"/>
-<img src="https://img.shields.io/badge/Odoo%20ORM-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="48" alt="Odoo ORM"/>
-<img src="https://img.shields.io/badge/OWL.js-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="48" alt="OWL.js"/>
-<img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="48" alt="SAP ABAP"/>
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="40" alt="Odoo"/>
+<img src="https://img.shields.io/badge/Odoo%20ORM-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="40" alt="Odoo ORM"/>
+<img src="https://img.shields.io/badge/OWL.js-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="40" alt="OWL.js"/>
+<img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="40" alt="SAP ABAP"/>
 </p>
 💻 Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,html,css" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="48" alt="SQL"/>
-<img src="https://img.shields.io/badge/XML-EB7100?style=for-the-badge&logo=xml&logoColor=white" height="48" alt="XML"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="SQL"/>
+<img src="https://img.shields.io/badge/XML-EB7100?style=for-the-badge&logo=xml&logoColor=white" height="40" alt="XML"/>
 </p>
 🚀 Frameworks & Backend
 <p>
 <img src="https://skillicons.dev/icons?i=flask,django,nodejs" />
-<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="48" alt="REST API"/>
-<img src="https://img.shields.io/badge/XML--RPC-3B82F6?style=for-the-badge&logo=xml&logoColor=white" height="48" alt="XML-RPC"/>
-<img src="https://img.shields.io/badge/QWeb-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="48" alt="QWeb"/>
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="40" alt="REST API"/>
+<img src="https://img.shields.io/badge/XML--RPC-3B82F6?style=for-the-badge&logo=xml&logoColor=white" height="40" alt="XML-RPC"/>
+<img src="https://img.shields.io/badge/QWeb-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="40" alt="QWeb"/>
 </p>
 🗄️ Databases
 <p>
@@ -167,10 +163,10 @@ Foundational full-stack project
 </p>
 🤖 AI & Automation
 <p>
-<img src="https://img.shields.io/badge/AI%20Automation-7C3AED?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="AI Automation"/>
-<img src="https://img.shields.io/badge/Process%20Automation-22C55E?style=for-the-badge&logo=zapier&logoColor=white" height="48" alt="Process Automation"/>
-<img src="https://img.shields.io/badge/Web%20Scraping-EAB308?style=for-the-badge&logo=python&logoColor=white" height="48" alt="Web Scraping"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48" alt="Power BI"/>
+<img src="https://img.shields.io/badge/AI%20Automation-7C3AED?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="AI Automation"/>
+<img src="https://img.shields.io/badge/Process%20Automation-22C55E?style=for-the-badge&logo=zapier&logoColor=white" height="40" alt="Process Automation"/>
+<img src="https://img.shields.io/badge/Web%20Scraping-EAB308?style=for-the-badge&logo=python&logoColor=white" height="40" alt="Web Scraping"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40" alt="Power BI"/>
 </p>
 🛠️ Tools & DevOps
 <p>
